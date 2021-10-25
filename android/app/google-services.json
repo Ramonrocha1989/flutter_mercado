@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987165578995",
+    "project_id": "mercado-trab",
+    "storage_bucket": "mercado-trab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987165578995:android:5ef83f73d050969dd60986",
+        "android_client_info": {
+          "package_name": "com.example.mercado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987165578995-0qpku3checerf8q5u1ei6otkbv6mmg0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaQWGM9Y6Xk67pGAujmGDg2QdsRolCu5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987165578995-0qpku3checerf8q5u1ei6otkbv6mmg0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
